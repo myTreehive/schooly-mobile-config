@@ -22,7 +22,7 @@
           }
         },
         "1.31.0": {
-          "expired": true,
+          "expired": false,
           "features": {
             "sign_ups": false
           }
