@@ -9,7 +9,7 @@
           }
         },
         "1.32.0": {
-          "expired": true,
+          "expired": false,
           "features": {
             "biometric": true,
             "sign_ups": true
