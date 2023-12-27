@@ -2,12 +2,6 @@
     "versions_control": {
       "is_update_wall_enable": true,
       "versions": {
-        "1.33.0": {
-          "expired": false,
-          "features": {
-            "biometric": true
-          }
-        },
         "1.32.0": {
           "expired": false,
           "features": {
