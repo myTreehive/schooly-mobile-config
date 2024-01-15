@@ -11,7 +11,7 @@
           "features": {}
         },
         "1.32.0": {
-          "expired": false,
+          "expired": true,
           "features": {
             "biometric": true,
             "sign_ups": true
