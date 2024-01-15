@@ -18,7 +18,7 @@
           }
         },
         "1.31.2": {
-          "expired": true,
+          "expired": false,
           "features": {
             "sign_ups": false
           }
