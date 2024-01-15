@@ -1,6 +1,6 @@
 {
     "versions_control": {
-      "is_update_wall_enable": false,
+      "is_update_wall_enable": true,
       "versions": {
         "1.32.2": {
           "expired": true,
@@ -12,22 +12,11 @@
         },
         "1.32.0": {
           "expired": true,
-          "features": {
-            "biometric": true,
-            "sign_ups": true
-          }
+          "features": {}
         },
         "1.31.2": {
           "expired": true,
-          "features": {
-            "sign_ups": false
-          }
-        },
-        "1.31.0": {
-          "expired": true,
-          "features": {
-            "sign_ups": false
-          }
+          "features": {}
         }
       }
     }
