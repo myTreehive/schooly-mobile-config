@@ -1,0 +1,15 @@
+{
+    "versions_control": {
+      "is_update_wall_enable": true,
+      "versions": {
+        "1.32.0": {
+          "expired": false,
+          "features": {}
+        },
+        "1.31.2": {
+          "expired": true,
+          "features": {}
+        }
+      }
+    }
+  }
