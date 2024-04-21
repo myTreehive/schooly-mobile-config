@@ -1,15 +1,19 @@
 {
-    "versions_control": {
-        "is_update_wall_enable": true,
-        "versions": {
-            "1.34.1": {
-                "expired": false,
-                "features": {}
-            },
-            "1.33.0": {
-                "expired": false,
-                "features": {}
-            }
-        }
+  "versions_control": {
+    "is_update_wall_enable": true,
+    "versions": {
+      "1.34.4": {
+        "expired": false,
+        "features": {}
+      },
+      "1.34.1": {
+        "expired": false,
+        "features": {}
+      },
+      "1.33.0": {
+        "expired": false,
+        "features": {}
+      }
     }
+  }
 }
