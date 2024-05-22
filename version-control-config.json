@@ -2,6 +2,10 @@
   "versions_control": {
     "is_update_wall_enable": true,
     "versions": {
+      "1.35.2": {
+        "expired": false,
+        "features": {}
+      },
       "1.35.1": {
         "expired": false,
         "features": {}
