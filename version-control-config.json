@@ -7,11 +7,11 @@
         "features": {}
       },
       "1.35.2": {
-        "expired": true,
+        "expired": false,
         "features": {}
       },
       "1.35.1": {
-        "expired": true,
+        "expired": false,
         "features": {}
       },
       "1.35.0": {
