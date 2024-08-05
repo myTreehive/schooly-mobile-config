@@ -2,6 +2,14 @@
   "versions_control": {
     "is_update_wall_enable": false,
     "versions": {
+      "1.36.1": {
+        "expired": false,
+        "features": {}
+      },
+      "1.36.0": {
+        "expired": false,
+        "features": {}
+      },
       "1.35.5": {
         "expired": false,
         "features": {}
