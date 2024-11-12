@@ -6,7 +6,7 @@
         "expired": false,
         "features": {
           "isFormBricksInitialized": true,
-          "appUsageDays": 3,
+          "appUsageDays": 3
         }
       },
       "1.37.0": {
