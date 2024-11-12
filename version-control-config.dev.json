@@ -2,6 +2,13 @@
   "versions_control": {
     "is_update_wall_enable": false,
     "versions": {
+      "1.38.2": {
+        "expired": false,
+        "features": {
+          "isFormBricksInitialized": true,
+          "appUsageDays": 3,
+        }
+      },
       "1.37.0": {
         "expired": false,
         "features": {}
