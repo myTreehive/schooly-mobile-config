@@ -5,8 +5,8 @@
       "1.38.2": {
         "expired": false,
         "features": {
-          "isFormBricksInitialized": true,
-          "appUsageDays": 3
+          "is_formbricks_initialized": true,
+          "app_usage_days": 3
         }
       },
       "1.37.0": {
