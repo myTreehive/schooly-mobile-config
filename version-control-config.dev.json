@@ -2,11 +2,11 @@
   "versions_control": {
     "is_update_wall_enable": false,
     "versions": {
-      "1.38.2": {
+      "1.39.0": {
         "expired": false,
         "features": {
           "isFormBricksInitialized": true,
-          "appUsageDays": 3
+          "appUsageDays": 2
         }
       },
       "1.37.0": {
