@@ -6,7 +6,7 @@
         "expired": false,
         "features": {
           "is_formbricks_initialized": true,
-          "app_usage_days": 2
+          "app_usage_days": 1
         }
       },
       "1.37.0": {
