@@ -3,7 +3,7 @@
     "is_update_wall_enable": false,
     "versions": {
       "1.39.0": {
-        "expired": false,
+        "expired": true,
         "features": {
           "is_formbricks_initialized": true,
           "app_usage_days": 1
