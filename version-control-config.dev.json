@@ -10,7 +10,7 @@
         }
       },
       "1.39.0": {
-        "expired": true,
+        "expired": false,
         "features": {
           "is_formbricks_initialized": true,
           "app_usage_days": 1
