@@ -5,22 +5,19 @@
       "1.41.0": {
         "expired": false,
         "features": {
-          "is_formbricks_initialized": true,
-          "app_usage_days": 1
+          "is_formbricks_enabled": true
         }
       },
       "1.40.0": {
         "expired": false,
         "features": {
-          "is_formbricks_initialized": true,
-          "app_usage_days": 1
+          "is_formbricks_enabled": true
         }
       },
       "1.39.0": {
         "expired": false,
         "features": {
-          "is_formbricks_initialized": true,
-          "app_usage_days": 1
+          "is_formbricks_enabled": true
         }
       },
       "1.37.0": {
