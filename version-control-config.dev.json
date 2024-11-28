@@ -21,8 +21,10 @@
         }
       },
       "1.37.0": {
-        "expired": false,
-        "features": {}
+        "expired": true,
+        "features": {
+          "is_formbricks_enabled": true
+        }
       },
       "1.36.1": {
         "expired": false,
