@@ -17,7 +17,7 @@
       "1.39.0": {
         "expired": false,
         "features": {
-          "is_formbricks_enabled": false
+          "is_formbricks_enabled": true
         }
       },
       "1.37.0": {
