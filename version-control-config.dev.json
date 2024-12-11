@@ -2,12 +2,6 @@
   "versions_control": {
     "is_update_wall_enable": false,
     "versions": {
-      "1.40.0": {
-        "expired": false,
-        "features": {
-          "is_formbricks_enabled": true
-        }
-      },
       "1.39.0": {
         "expired": false,
         "features": {
