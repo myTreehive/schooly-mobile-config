@@ -3,7 +3,7 @@
     "is_update_wall_enable": false,
     "versions": {
       "1.0.0": {
-        "expired": false,
+        "expired": true,
         "features": {}
       },
     }
