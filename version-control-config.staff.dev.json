@@ -3,9 +3,9 @@
     "is_update_wall_enable": false,
     "versions": {
       "1.0.0": {
-        "expired": true,
+        "expired": false,
         "features": {}
-      },
+      }
     }
   }
 }
