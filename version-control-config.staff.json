@@ -4,8 +4,10 @@
     "versions": {
       "1.0.0": {
         "expired": false,
-        "features": {}
-      },
+        "features": {
+          "a": 1
+        }
+      }
     }
   }
 }
